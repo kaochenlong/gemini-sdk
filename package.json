@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "@google/genai": "^1.30.0"
+    "@google/genai": "^1.30.0",
+    "inquirer": "^12.11.1",
+    "ora": "^9.0.0"
   },
   "type": "module"
 }
